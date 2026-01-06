@@ -17,11 +17,9 @@ DOMAIN-SUFFIX,api5-lf.qishui.com
 DOMAIN-SUFFIX,api5-normal-aweme-lf.doubao.com
 DOMAIN-SUFFIX,api5-normal-lf.amemv.com
 DOMAIN-SUFFIX,api6-normal-lf.amemv.com
-DOMAIN-SUFFIX,apple-safebrowsing.googleapis.com
 DOMAIN-SUFFIX,aweme.snssdk.com
 DOMAIN-SUFFIX,bsync3-normal-lf.zijieapi.com
 DOMAIN-SUFFIX,bytelink100-ws-lf.amemv.com
-DOMAIN-SUFFIX,card.e.189.cn
 DOMAIN-SUFFIX,cf-gl.qiezibenpao.com
 DOMAIN-SUFFIX,cgi.connect.qq.com
 DOMAIN-SUFFIX,coelacanth.yingt.fun
@@ -31,7 +29,6 @@ DOMAIN-SUFFIX,ecom5-normal-lf.ecombdapi.com
 DOMAIN-SUFFIX,ecomuser.snssdk.com
 DOMAIN-SUFFIX,frontier-aweme-lf-ipainner.amemv.com
 DOMAIN-SUFFIX,frontier100-aweme-lf.amemv.com
-DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,i.snssdk.com
 DOMAIN-SUFFIX,imagex.bytedanceapi.com
 DOMAIN-SUFFIX,is.snssdk.com
@@ -111,7 +108,6 @@ DOMAIN-SUFFIX,polaris3-normal-lf.zijieapi.com
 DOMAIN-SUFFIX,polaris5-normal-lf.zijieapi.com
 DOMAIN-SUFFIX,pull-tsl-q6.douyincdn.com
 DOMAIN-SUFFIX,pull-tsl-t3.douyincdn.com
-DOMAIN-SUFFIX,release-assets.githubusercontent.com
 DOMAIN-SUFFIX,render.ecombdpage.com
 DOMAIN-SUFFIX,rn777n6-41.free-lbv13.idouyinvod.com
 DOMAIN-SUFFIX,sandbox.itunes.apple.com
