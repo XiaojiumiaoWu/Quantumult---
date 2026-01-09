@@ -1,5 +1,5 @@
 # Loon 九九进阶配置
-# Date: 2025-07-14 18:29:44
+# Date: 2026-01-09 22:52:35
 # 保护知识产权，本策略为个人定制
 
 [General]
@@ -134,8 +134,6 @@ IP-CIDR6,fc00::/18,DIRECT
 FINAL,延迟最低
 
 [Remote Rule]
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TikTok/TikTok.list, policy=新国时延优选, tag=TikTok.list, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Gemini/Gemini.list, policy=Google, tag=Gemini.list, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/SystemOTA/SystemOTA.list, policy=DIRECT, tag=Apple软件更新, enabled=true
 https://raw.githubusercontent.com/XiaojiumiaoWu/Quantumult---/refs/heads/main/ChinaMax_Domain_Cleaned.txt, policy=腾讯, tag=111, enabled=true
 https://raw.githubusercontent.com/XiaojiumiaoWu/Quantumult---/refs/heads/main/doyin.list, policy=抖音, tag=Douyin, enabled=true
